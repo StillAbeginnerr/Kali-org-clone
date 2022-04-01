@@ -1,0 +1,48 @@
+.first-text{
+    text-align: center;
+    font-size: 49px;
+    font-weight: 1200;
+     color: #242738;
+}
+
+.second-text{
+    text-align: center;
+    font-size: 30px;
+    font-size: 400;
+    color: #242738;
+}
+
+.third-text{
+    display: inline-flex;
+    text-align: left;
+    font-size: 26px;
+    height: 30%;
+    position: relative;
+    left: 290px;
+    font-weight:400;
+    color: #242738;
+}
+.fourth-text{
+    margin-top: 50px;
+    margin-left: 140px;
+    display: inline-flex;
+    text-align: center;
+    font-size: 26px;
+    height: 30%;
+    position: relative;
+    left: 290px;
+    font-weight:400;
+    color: #242738;
+}
+.five-text{
+    margin-top: 50px;
+    margin-left: 180px;
+    display: inline-flex;
+    text-align: right;
+    font-size: 26px;
+    height: 30%;
+    position: relative;
+    left: 290px;
+    font-weight:400;
+    color: #242738;
+}
