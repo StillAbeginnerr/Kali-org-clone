@@ -18,38 +18,62 @@
     font-size: 26px;
     height: 30%;
     position: relative;
-    left: 290px;
+    left: 200px;
     font-weight:400;
     color: #242738;
 }
 .fourth-text{
     margin-top: 50px;
-    margin-left: 140px;
+    margin-left: 120px;
     display: inline-flex;
-    text-align: center;
+    text-align: left;
     font-size: 26px;
     height: 30%;
     position: relative;
-    left: 290px;
+    left:30px;
     font-weight:400;
     color: #242738;
 }
 .para{
     position: relative;
     top: 28px;
-    right: 240px;
+    right: 250px;
     font-size: 15px;
+    margin-top: 30px;
     color: #636363;
 }
 .five-text{
     margin-top: 50px;
-    margin-left: 180px;
     display: inline-flex;
     text-align: right;
     font-size: 26px;
     height: 30%;
     position: relative;
-    left: 290px;
+    left: 1140px;
+    bottom: 212px;
+    font-weight:400;
+    color: #242738;
+}
+.six-text{
+    margin-top: 70px;
+    display: inline-flex;
+    text-align: left;
+    font-size: 26px;
+    height: 30%;
+    position: relative;
+    right: 10px;
+    font-weight:400;
+    color: #242738;
+}
+.seven-text{
+    margin-top: 70px;
+    display: inline-flex;
+    text-align: left;
+    font-size: 29px;
+    height: 30%;
+    position: relative;
+    bottom:254px;
+    left: 950px;
     font-weight:400;
     color: #242738;
 }
