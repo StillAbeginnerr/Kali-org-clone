@@ -49,6 +49,7 @@
     font-size: 26px;
     height: 30%;
     position: relative;
+    border: 0;
     left: 1140px;
     bottom: 212px;
     font-weight:400;
@@ -58,6 +59,7 @@
     margin-top: 70px;
     display: inline-flex;
     text-align: left;
+    border: 0;
     font-size: 26px;
     height: 30%;
     position: relative;
@@ -74,6 +76,7 @@
     position: relative;
     bottom:254px;
     left: 950px;
+    border: 0;
     font-weight:400;
     color: #242738;
 }
